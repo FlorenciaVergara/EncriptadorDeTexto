@@ -1,4 +1,4 @@
-![Banner encriptador de texto]()
+![Banner encriptador de texto](bannerEncriptadorDeTexto.png)
 # EncriptadorDeTexto
 Este proyecto es una página web sencilla creada con HTML, CSS y JavaScript que permite encriptar y desencriptar texto. La aplicación cuenta con una interfaz intuitiva donde puedes escribir un mensaje, encriptarlo, copiar el texto encriptado y luego desencriptarlo. Además, la página es completamente responsiva, adaptada para funcionar en todo tipo de dispositivos, incluidos tablets y celulares.
 
