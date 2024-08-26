@@ -93,7 +93,7 @@ botonDesencriptar.addEventListener("click", e=>{
 
     else {
         texto = texto.replace(/enter/mg, "e");
-        texto = texto.replace(/mes/mg, "i");
+        texto = texto.replace(/imes/mg, "i");
         texto = texto.replace(/ai/mg, "a");
         texto = texto.replace(/ober/mg, "o");
         texto = texto.replace(/ufat/mg, "u");
